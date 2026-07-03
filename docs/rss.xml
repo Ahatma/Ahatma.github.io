@@ -1,2 +1,11 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Ahatma Blog</title><link>https://Ahatma.github.io</link><description>Blog</description><copyright>Ahatma Blog</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://avatars.githubusercontent.com/u/210792685?v=4&amp;size=64</url><title>avatar</title><link>https://Ahatma.github.io</link></image><lastBuildDate>Fri, 03 Jul 2026 01:51:32 +0000</lastBuildDate><managingEditor>Ahatma Blog</managingEditor><ttl>60</ttl><webMaster>Ahatma Blog</webMaster><item><title>第一篇blog</title><link>https://Ahatma.github.io/post/di-yi-pian-blog.html</link><description>aaa。</description><guid isPermaLink="true">https://Ahatma.github.io/post/di-yi-pian-blog.html</guid><pubDate>Fri, 03 Jul 2026 01:43:56 +0000</pubDate></item></channel></rss>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Ahatma Blog</title><link>https://Ahatma.github.io</link><description>Blog</description><copyright>Ahatma Blog</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://avatars.githubusercontent.com/u/210792685?v=4&amp;size=64</url><title>avatar</title><link>https://Ahatma.github.io</link></image><lastBuildDate>Fri, 03 Jul 2026 02:10:02 +0000</lastBuildDate><managingEditor>Ahatma Blog</managingEditor><ttl>60</ttl><webMaster>Ahatma Blog</webMaster><item><title>第一篇blog</title><link>https://Ahatma.github.io/post/di-yi-pian-blog.html</link><description>---
+layout: post
+title: HTML基础学习笔记
+date: 2026-07-03
+categories: 前端学习
+---
+
+# HTML基础学习笔记
+## 什么是HTML
+HTML是**超文本标记语言**，是搭建网页的基础，所有网页都是依靠HTML搭建骨架，简单易懂、入门门槛极低。</description><guid isPermaLink="true">https://Ahatma.github.io/post/di-yi-pian-blog.html</guid><pubDate>Fri, 03 Jul 2026 01:43:56 +0000</pubDate></item></channel></rss>
